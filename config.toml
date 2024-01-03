@@ -226,7 +226,7 @@ thumbnailImagePosition = "bottom"
 autoThumbnailImage = true
 
 # Your favicon path, default is "/favicon.png"
-#  favicon = "/favicon.png"
+favicon = "/favicons/favicon.ico"
 
 # ------------------
 # External resources
